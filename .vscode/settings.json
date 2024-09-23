@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "unicorn_sql",
+            "database": "unicorn_sql",
+            "username": "postgres"
+        }
+    ]
+}
